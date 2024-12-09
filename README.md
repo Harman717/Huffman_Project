@@ -1,2 +1,2 @@
-# Huffman_Project
-A step by step visual guide to explain optimal merge pattern and Huffman tree to the students.
+# HUFFMAN_TREE-MERGE_PATTERN_WEBSOLVER
+A site to step by step solving of Huffman tree and optimal merge pattern
