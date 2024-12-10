@@ -1,4 +1,4 @@
-# **Huffman_Project (DOSE - DAA On Steroids)**  
+# **Huffman_Project (DOSE - DSA On Steroids)**  
 
 ## 📌 **Inspiration**  
 I created Huffman_Project to provide an interactive and educational tool for visualizing Huffman Coding and the Optimal Merge Pattern problem. These algorithms play a crucial role in data compression and file merging. My goal was to make learning these concepts engaging through dynamic visual explanations.  
